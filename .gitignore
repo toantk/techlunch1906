@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Visual Studio files
+src/**/obj
+src/.vs
+src/**/bin
