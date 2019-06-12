@@ -8,6 +8,7 @@ namespace TechLunchDemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Work from Feature 1'");
+            Console.WriteLine("Work from Feature 2");
         }
     }
 }
