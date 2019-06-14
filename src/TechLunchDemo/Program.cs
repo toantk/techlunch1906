@@ -7,9 +7,6 @@ namespace TechLunchDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Fix issue1");
-            Console.WriteLine("Fix issue2");
-            Console.WriteLine("Fix issue3");
         }
     }
 }
